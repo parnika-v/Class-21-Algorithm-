@@ -1,1 +1,1 @@
-https://parnika-v.github.io/C-20-is-touching-algorithm-/index.html
+https://parnika-v.github.io/Class-21-Algorithm-/
